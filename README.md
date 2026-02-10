@@ -48,13 +48,13 @@ Construção de dashboard interativo
 
 
 
-• Média salarial por senioridade
+Média salarial por senioridade
 
-• Cargos com maior remuneração
+Cargos com maior remuneração
 
-• Regimes de trabalho
+Regimes de trabalho
 
-• Média salarial por país
+Média salarial por país
 
 
 
