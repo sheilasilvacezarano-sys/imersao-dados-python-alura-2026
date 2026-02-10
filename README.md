@@ -52,7 +52,7 @@ Média salarial por senioridade
 
 Cargos com maior remuneração
 
-Regimes de trabalho
+Modelos de trabalho
 
 Média salarial por país
 
